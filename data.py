@@ -52,6 +52,9 @@ class Data:
    def __init__(self, data):
       pass
 
+   def value(self):
+      pass
+
    def get_item(self, index):
       pass
 
