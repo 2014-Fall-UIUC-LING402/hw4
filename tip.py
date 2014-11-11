@@ -10,9 +10,9 @@
 #   * Correctly process parameter when bill is an integer (1 point)
 #   * Correctly process parameter when bill is a float (1 point)
 #   * Correctly process parameter when bill is a string (1 point)
-#   * Correctly process parameter when percentage is an integer (1 point)
-#   * Correctly process parameter when percentage is an float (1 point)
-#   * Correctly process parameter when percentage is an string (1 point)
+#   * Correctly process parameter when percentage is an integer between 0 and 100 (1 point)
+#   * Correctly process parameter when percentage is an float between 0.0 and 100.0 (1 point)
+#   * Correctly process parameter when percentage is an string representation of a number between 0.0 and 100.0 (1 point)
 #
 # 2. Have a value method:
 #   * Correctly calculate value of tip (2 points)
