@@ -10,5 +10,6 @@ Tools and Techniques for Speech and Language Processing
 
 The assignment is broken into the following parts:
 
-1. Tip calculator (10 points)
-2. Data manipulation using lists (10 points)
+1. Tip calculator (10 points + 3 extra credit points)
+2. Data manipulation using lists (10 points + 3 extra credit points)
+3. Vocabulary (10 points + 3 extra credit points)
