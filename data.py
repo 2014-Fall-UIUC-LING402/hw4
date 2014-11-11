@@ -20,7 +20,7 @@
 #   * Correctly gets the item in data at the specified index (1 point)
 #
 # 3. Have a get_items method:
-#   * Correctly gets a list containing the items at the specified range (1 point)
+#   * Correctly gets a list containing the items at the specified range, using list slicing (1 point)
 #
 # 4. Have a get_sorted_items method:
 #   * Correctly returns a new sorted list containing all elements in data (1 points) 
